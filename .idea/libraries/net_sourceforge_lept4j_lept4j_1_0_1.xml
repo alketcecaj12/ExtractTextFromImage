@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="net.sourceforge.lept4j:lept4j:1.0.1" type="repository">
+    <properties maven-id="net.sourceforge.lept4j:lept4j:1.0.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lept4j-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jai-imageio-core-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rococoa-core-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cglib-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jai-imageio-core-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rococoa-core-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cglib-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/lept4j-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.lemoulinstudio.jnag:jnag-model:1.2.1" type="repository">
+    <properties maven-id="com.lemoulinstudio.jnag:jnag-model:1.2.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jnag-model-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jnag-model-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
