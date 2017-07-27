@@ -13,7 +13,7 @@ public class Image2TextUsingTess4J {
         File imageFile = new File("Golden_Globe_text_logo.png");
         //ITesseract instance = new Tesseract();  // JNA Interface Mapping
         ITesseract instance = new Tesseract(); // JNA Direct Mapping
-       // String string = "<html> <body> </body></html>";
+       String string = "<html> <body> String to commit </body></html>";
         try {
             String result;
             result = instance.doOCR(imageFile);
